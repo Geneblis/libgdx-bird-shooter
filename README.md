@@ -4,7 +4,7 @@
 
 ## Descrição do Jogo
 
-Blackbird Shooter é um jogo onde os jogadores devem atirar em pássaros negros que aparecem na tela. O objetivo é acumular o maior número de pontos possível antes que o mesmo acabe morredno.
+Blackbird Shooter é um jogo onde os jogadores devem atirar em pássaros que aparecem na tela. O objetivo é acumular o maior número de pontos possível antes que o mesmo acabe morrendo.
 
 ## Tecnologias Utilizadas
 
